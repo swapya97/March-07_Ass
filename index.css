@@ -1,0 +1,104 @@
+body {
+  background-color: rgb(177, 232, 236);
+  background-image: url("https://img.freepik.com/free-photo/interior-wall-mockup-with-green-plantgreen-wall-shelf3d-rendering_41470-4431.jpg?w=996");
+  background-repeat: no-repeat;
+  background-size: 100%;
+  margin-top: 100px;
+}
+img {
+  width: 300px;
+  position: relative;
+  left: 1000px;
+  bottom: 400px;
+  background-color: rgb(12, 59, 59);
+  border-radius: 10%;
+  padding: 30px;
+}
+.divimg {
+  position: relative;
+  right: 50px;
+  width: 300px;
+  height: 300px;
+
+  cursor: pointer;
+}
+h1 {
+  margin-left: 350px;
+  color: rgb(163, 163, 163);
+  width: 450px;
+  text-align: center;
+  background-color: rgb(70, 26, 35);
+  border-radius: 20px;
+  box-shadow: 20px 20px 40px rgb(70, 26, 35);
+}
+
+input[type="text"] {
+  width: 400px;
+  height: 35px;
+  border-radius: 5px;
+  background-color: rgb(220, 250, 255);
+}
+input[type="checkbox"] {
+}
+
+form {
+  font-family: sans-serif;
+  background: linear-gradient(
+    90deg,
+    rgb(9, 73, 73) 0%,
+    rgba(3, 68, 55, 0.936) 57%,
+    rgb(4, 90, 76) 100%
+  );
+  cursor: pointer;
+  border-radius: 10px;
+  box-shadow: 2000px;
+  box-shadow: 20px 22px 70px 20px rgb(0, 43, 46);
+  width: 40%;
+  margin-left: 300px;
+  padding-right: 20px;
+}
+button {
+  margin-left: 100px;
+}
+
+/* classes  */
+.button {
+  margin-left: -270px;
+}
+/* list  */
+.here {
+  margin-left: 186px;
+}
+.css {
+  margin-left: 269px;
+}
+.html {
+  margin-left: 260px;
+}
+.java {
+  margin-left: 232px;
+}
+.add {
+  margin-left: 5px;
+  width: 100px;
+  height: 40px;
+  background-color: rgb(0, 67, 70);
+  color: aliceblue;
+  font-size: 15px;
+  border: 1px solid rgb(68, 12, 23);
+  border-radius: 5px;
+  box-shadow: 1px 2px 2px rgb(68, 12, 23);
+}
+
+.last-class {
+  list-style: none;
+}
+li {
+}
+.allli {
+  display: flex;
+  justify-content: space-between;
+}
+hr {
+  background-color: black;
+}
